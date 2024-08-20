@@ -17,7 +17,7 @@ setup(
         'hf_transfer==0.1.6',
         'openai==1.30.5',
         'httpx==0.27.0',
-        'nltk==3.8.1',
+        'nltk==3.9',
         'numpy==1.26.3',
         'tqdm==4.66.4',
         'protobuf==4.25.3',
